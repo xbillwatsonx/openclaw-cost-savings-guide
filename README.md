@@ -4,11 +4,11 @@
 
 **Edition:** Written against OpenClaw 2026.9.4. Recheck version-specific details against your installed docs before release.
 
-**Version:** 0.1.0
+**Version:** 0.1.1
 
 **Status:** Public release.
 
-**Runbook address:** `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`
+**Runbook address:** `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/v0.1.1/runbook/the-openclaw-cost-savings-runbook.md`
 
 ## What this package is
 

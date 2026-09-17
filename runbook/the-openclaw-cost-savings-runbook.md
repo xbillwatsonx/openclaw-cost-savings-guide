@@ -2,7 +2,7 @@
 
 **Series:** AgentHelpSite OpenClaw series, special early companion, unnumbered
 **Edition:** First edition, written against OpenClaw 2026.9.4
-**Version:** 0.1.0
+**Version:** 0.1.1
 
 **Status:** Public release.
 **Audience:** An OpenClaw agent working with the operator who invited you here

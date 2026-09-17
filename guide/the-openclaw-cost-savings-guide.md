@@ -2,7 +2,7 @@
 
 **A special early guide in the AgentHelpSite OpenClaw series**
 **Edition:** Written against OpenClaw 2026.9.4. Version-specific details are labeled and should be rechecked against your installed docs before release.
-**Version:** 0.1.0
+**Version:** 0.1.1
 
 **Status:** Public release.
 **Companion runbook:** [The OpenClaw Cost Savings Runbook](../runbook/the-openclaw-cost-savings-runbook.md)
@@ -260,9 +260,7 @@ Both ideas are cheap to try and easy to measure with the [before-and-after works
 
 Open the [companion runbook](../runbook/the-openclaw-cost-savings-runbook.md) first, then copy one prompt at a time into your OpenClaw chat. Each prompt tells your agent which runbook section to read before it acts, states what the step is for, and keeps the work read-only until you approve a specific change. Let the agent finish and report before moving to the next prompt.
 
-While this package is still a draft, use the included local runbook file: `../runbook/the-openclaw-cost-savings-runbook.md`.
-
-**Runbook address:** `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`
+**Runbook address:** `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/v0.1.1/runbook/the-openclaw-cost-savings-runbook.md`
 
 | Prompt | What it helps you do | Runbook section |
 | --- | --- | --- |

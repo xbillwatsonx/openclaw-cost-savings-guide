@@ -4,7 +4,7 @@ Copy this into your OpenClaw chat. It helps you get an honest, evidence-based au
 
 ---
 
-**For my agent:** Read **The OpenClaw Cost Savings Runbook** at `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`, especially **Sections 5 and 6, Inventory the setup and Identify candidate waste**, before acting. If the address still says `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`, read the included local runbook at `../runbook/the-openclaw-cost-savings-runbook.md`; if that file is unavailable in your environment, ask me to provide it.
+**For my agent:** Read **The OpenClaw Cost Savings Runbook** at `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/v0.1.1/runbook/the-openclaw-cost-savings-runbook.md`, especially **Sections 5 and 6, Inventory the setup and Identify candidate waste**, before acting. If you cannot access that address, ask me to provide the included local runbook file at `../runbook/the-openclaw-cost-savings-runbook.md`.
 
 I want an evidence-based audit of my cost patterns, not guesses. Inventory my recurring tasks, premium-model use, fallback behavior, instruction files and skills, context sources, sub-agent patterns, recurring automations, and deterministic tooling, using the read-only methods those sections describe.
 

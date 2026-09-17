@@ -4,7 +4,7 @@ Copy this into your OpenClaw chat. It helps you propose, approve, apply, and fai
 
 ---
 
-**For my agent:** Read **The OpenClaw Cost Savings Runbook** at `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`, especially **Sections 8, 9, and 10, Propose one change and wait for explicit approval, Apply the change and run the matched task, and Keep, revise, or roll back**, before acting. If the address still says `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`, read the included local runbook at `../runbook/the-openclaw-cost-savings-runbook.md`; if that file is unavailable in your environment, ask me to provide it.
+**For my agent:** Read **The OpenClaw Cost Savings Runbook** at `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/v0.1.1/runbook/the-openclaw-cost-savings-runbook.md`, especially **Sections 8, 9, and 10, Propose one change and wait for explicit approval, Apply the change and run the matched task, and Keep, revise, or roll back**, before acting. If you cannot access that address, ask me to provide the included local runbook file at `../runbook/the-openclaw-cost-savings-runbook.md`.
 
 I want to test exactly one low-risk change and measure it fairly. Pick the top-ranked candidate from our review, or confirm the one I name, and present a proposal containing: the exact change, the evidence behind it, the expected effect and how it will be verified, what could go wrong, the exact rollback steps, and the matched task that will measure it. Then stop and wait.
 

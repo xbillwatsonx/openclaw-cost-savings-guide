@@ -4,7 +4,7 @@ Copy this into your OpenClaw chat. It helps you learn which cost path your runs 
 
 ---
 
-**For my agent:** Read **The OpenClaw Cost Savings Runbook** at `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`, especially **Section 3, Identify the setup and the money path**, before acting. If the address still says `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`, read the included local runbook at `../runbook/the-openclaw-cost-savings-runbook.md`; if that file is unavailable in your environment, ask me to provide it.
+**For my agent:** Read **The OpenClaw Cost Savings Runbook** at `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/v0.1.1/runbook/the-openclaw-cost-savings-runbook.md`, especially **Section 3, Identify the setup and the money path**, before acting. If you cannot access that address, ask me to provide the included local runbook file at `../runbook/the-openclaw-cost-savings-runbook.md`.
 
 I want to understand how my usage is actually billed before I try to save anything. Identify my installed version, my provider or providers, my active model, my authentication route for each provider (API key, OAuth or account sign-in, or local), and where my usage is recorded. Do not assume authentication alone proves billing. Verify which runs consume subscription allowance, which consume usage-based API billing, and which use local inference. Name whether each number is provider-reported usage, a recorded billed amount, or a local estimate, and identify the provider dashboard that is authoritative.
 

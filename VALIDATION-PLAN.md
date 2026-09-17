@@ -9,7 +9,7 @@
 | All 22 required files exist | Pass. Every file in the frozen specification's package list exists, including this one. |
 | Em and en dash scan | Pass. No em or en dashes in any file. |
 | Privacy scan | Pass. No private home paths, usernames, hostnames, IDs, private model-routing details, or credentials in reader-facing files. |
-| Prompt bridge check | Pass. All 8 prompts name `../runbook/the-openclaw-cost-savings-runbook.md`, identify the relevant runbook section, instruct the agent to read it first, state purpose and expected behavior, include `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`, and prohibit changes without explicit approval. |
+| Prompt bridge check | Pass. All 8 prompts name `../runbook/the-openclaw-cost-savings-runbook.md`, identify the relevant runbook section, instruct the agent to read it first, state purpose and expected behavior, include `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/v0.1.1/runbook/the-openclaw-cost-savings-runbook.md`, and prohibit changes without explicit approval. |
 | Internal link check | Pass. All relative markdown links resolve, including the README link to this file and the guide's internal prompt-table anchor. |
 | Creator percentage scan | Pass. No creator-reported savings percentages appear in reader-facing files. |
 | Version labels | Pass. Every version-specific statement carries an explicit OpenClaw 2026.9.4 label or appears inside a paragraph whose opening sentence carries that label. |

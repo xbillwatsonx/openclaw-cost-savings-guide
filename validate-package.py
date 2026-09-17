@@ -98,7 +98,7 @@ def main() -> int:
         text = path.read_text(encoding="utf-8")
         required_fragments = [
             "../runbook/the-openclaw-cost-savings-runbook.md",
-            "https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md",
+            "https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/v0.1.1/runbook/the-openclaw-cost-savings-runbook.md",
             "explicit approval",
         ]
         for fragment in required_fragments:

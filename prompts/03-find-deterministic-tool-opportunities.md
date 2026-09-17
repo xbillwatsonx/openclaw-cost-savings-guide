@@ -4,7 +4,7 @@ Copy this into your OpenClaw chat. It helps you find repeated model reasoning th
 
 ---
 
-**For my agent:** Read **The OpenClaw Cost Savings Runbook** at `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`, especially **Sections 5 and 6, Inventory the setup and Identify candidate waste**, before acting. If the address still says `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/main/runbook/the-openclaw-cost-savings-runbook.md`, read the included local runbook at `../runbook/the-openclaw-cost-savings-runbook.md`; if that file is unavailable in your environment, ask me to provide it.
+**For my agent:** Read **The OpenClaw Cost Savings Runbook** at `https://raw.githubusercontent.com/xbillwatsonx/openclaw-cost-savings-guide/v0.1.1/runbook/the-openclaw-cost-savings-runbook.md`, especially **Sections 5 and 6, Inventory the setup and Identify candidate waste**, before acting. If you cannot access that address, ask me to provide the included local runbook file at `../runbook/the-openclaw-cost-savings-runbook.md`.
 
 I want to find operations my agent keeps re-deriving, where a task-runner recipe, script, or validator could do the same job deterministically. List the task runners, recipes, scripts, and validators I already have, then list repeated operations worth converting, how often each runs, and the cost signal for each, such as turns spent rediscovering, retries, or rework.
 

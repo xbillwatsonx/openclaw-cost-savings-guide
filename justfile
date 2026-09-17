@@ -1,4 +1,4 @@
-# OpenClaw Cost Savings Guide public package, version 0.1.0.
+# OpenClaw Cost Savings Guide public package, version 0.1.1.
 
 # Show all commands
 help:
@@ -12,9 +12,9 @@ menu:
 validate:
     python3 validate-package.py
 
-# Build the version 0.1.0 ZIP and checksum beside the repository
+# Build the version 0.1.1 ZIP and checksum beside the repository
 release-archive:
-    @cd ..; rm -f "openclaw-cost-savings-guide-v0.1.0.zip" "openclaw-cost-savings-guide-v0.1.0.zip.sha256"; zip -rq "openclaw-cost-savings-guide-v0.1.0.zip" "openclaw-cost-savings-guide" -x "openclaw-cost-savings-guide/.git/*"; sha256sum "openclaw-cost-savings-guide-v0.1.0.zip" > "openclaw-cost-savings-guide-v0.1.0.zip.sha256"
+    @cd ..; rm -f "openclaw-cost-savings-guide-v0.1.1.zip" "openclaw-cost-savings-guide-v0.1.1.zip.sha256"; zip -rq "openclaw-cost-savings-guide-v0.1.1.zip" "openclaw-cost-savings-guide" -x "openclaw-cost-savings-guide/.git/*"; sha256sum "openclaw-cost-savings-guide-v0.1.1.zip" > "openclaw-cost-savings-guide-v0.1.1.zip.sha256"
 
 # Agent preflight checks
 agent-preflight:
